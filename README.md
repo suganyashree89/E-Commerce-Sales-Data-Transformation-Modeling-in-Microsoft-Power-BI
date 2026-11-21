@@ -38,6 +38,11 @@ Based on the Power BI data pane structure, the workflow organizes queries into t
 * `Average profit by category`: Category-level profitability summary.
 * `count of category` & `count of order_id`: Order and category volume metrics.
 
+*** Data Modeling**
+  
+  <img width="632" height="339" alt="image" src="https://github.com/user-attachments/assets/f3ed2b55-ef11-4761-a3e9-851293f5db61" />
+
+
 ## 📊 Key Dashboard Insights & Visuals
 
 The Power BI report highlights core e-commerce KPIs and category breakdowns:
